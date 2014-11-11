@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Child Comment Expander
 // @namespace    https://github.com/SirNeon618
-// @version      0.1
+// @version      0.2
 // @description  Expands child comments
 // @author       SirNeon
-// @include      https?://www.reddit.com/r/SubredditDramaDrama/*
-// @include      https?://www.reddit.com/r/ThePopcornStand/*
-// @include      https?://www.reddit.com/r/SubredditAnalysis/*
+// @include      https://www.reddit.com/r/SubredditDramaDrama/*
+// @include      https://www.reddit.com/r/ThePopcornStand/*
+// @include      https://www.reddit.com/r/SubredditAnalysis/*
 // @grant        none
 // ==/UserScript==
 
