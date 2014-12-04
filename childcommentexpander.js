@@ -5,8 +5,11 @@
 // @description  Expands child comments
 // @author       SirNeon
 // @include      http://www.reddit.com/r/SubredditDramaDrama/comments/*
-// @include      http://www.reddit.com/r/ThePopcornStand/comments/*
 // @include      http://www.reddit.com/r/SubredditAnalysis/comments/*
+// @include      http://www.reddit.com/r/ThePopcornStand/comments/*
+// @include      https://www.reddit.com/r/SubredditDramaDrama/comments/*
+// @include      https://www.reddit.com/r/ThePopcornStand/comments/*
+// @include      https://www.reddit.com/r/SubredditAnalysis/comments/*
 // @grant        none
 // ==/UserScript==
 
